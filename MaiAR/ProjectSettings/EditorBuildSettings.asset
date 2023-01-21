@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Demo/test-trackers.unity
+    guid: a200be1a09e3f4208943c5ae7a284661
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 0aac7602b71e64d4ebc4fa5cfd75e8b7, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: fab536f27fae74fb086409bf1a52165c, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4c5b1371b8ac44277bcec6b22e7bac92, type: 2}

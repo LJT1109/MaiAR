@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{3910F5E7-C049-205F-1E05-8554E8026B4A}|">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FernandoOleaDev/MultiTrackedImage(ARFoundation)/Scripts/AR/ARMultiTrackedImageManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/NewScript/DownloadTopic.cs" Line="19" Column="11" />
+      <File FileName="Library/PackageCache/com.unity.xr.arfoundation@4.2.6/Runtime/AR/ARCameraManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/FernandoOleaDev/MultiTrackedImage(ARFoundation)/Scripts/AR/ARMultiTrackedImageManager.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MaiAR" expanded="True" selected="True">
+            <Node name="Assets" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c9bbf00e-8b70-47b0-8e4c-e83f13416d29" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

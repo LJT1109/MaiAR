@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Frame Assets
+  m_EditorClassIdentifier: 
+  m_GroupName: Frame Assets
+  m_Data:
+    m_SerializedData: []
+  m_GUID: eaf3468ada71148fda77bfad8bd475aa
+  m_SerializeEntries:
+  - m_GUID: 8c235ea50a2754fa1b52ddea1cb2fa1f
+    m_Address: Assets/Scenes/Topic/Res/Frame/Frame01_Bottom.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6cf445824fa3c41b79cb55f43cbbc37b
+    m_Address: Assets/Scenes/Topic/Res/Frame/Frame04_Bottom.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f7be38e2a1e4b4be38a3d424b3b12a67
+    m_Address: Assets/Scenes/Topic/Res/Frame/Frame03_Top.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fbc01b54b77a642b783380744aa903eb
+    m_Address: Assets/Scenes/Topic/Res/Frame/Frame02_Bottom.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 065f2ef66ab4a4b8a921a8e5bac86e8b
+    m_Address: Assets/Scenes/Topic/Res/Frame/Frame06_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d912f19b4e1f145a08dbd6e9f03a6379
+    m_Address: Assets/Scenes/Topic/Res/Frame/Frame06_Top.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 01cea7e3cbc6b4059985edbe598c5371
+    m_Address: Assets/Scenes/Topic/Res/Frame/Frame04_Top.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8a2b0dea022504c189a8e34627bd3b82
+    m_Address: Assets/Scenes/Topic/Res/Frame/Frame09_Bottom.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 67f2ff3aa3a29431d81c1e54df3debc2
+    m_Address: Assets/Scenes/Topic/Res/Frame/Frame01_Top.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c2239b43a4bd54a7dbbb0b8a2f192860
+    m_Address: Assets/Scenes/Topic/Res/Frame/Frame05_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ccada6e402aed42a2b43ae8ec3d91a1d
+    m_Address: Assets/Scenes/Topic/Res/Frame/Frame03_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ece57cd8bba644647a18f40d262c7d89
+    m_Address: Assets/Scenes/Topic/Res/Frame/Frame08_Top.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 09834f607d8fe4668af251fb0bf9bc5c
+    m_Address: Assets/Scenes/Topic/Res/Frame/Frame01_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2963f26f47da44a0696857ad9ed252b3
+    m_Address: Assets/Scenes/Topic/Res/Frame/Frame07_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9624bff19eca549168d63355d4ebc7bf
+    m_Address: Assets/Scenes/Topic/Res/Frame/Frame09_Top.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 270f362860e154220be2e2c9d81f2b97
+    m_Address: Assets/Scenes/Topic/Res/Frame/Frame10_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1348bae2b832842b4ada76a1da3d9758
+    m_Address: Assets/Scenes/Topic/Res/Frame/Frame07_Bottom.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3b13f349993f540e99f8f5c48031a4bd
+    m_Address: Assets/Scenes/Topic/Res/Frame/Frame02_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 170790230194248ff88adfb4a2adf5bc
+    m_Address: Assets/Scenes/Topic/Res/Frame/Frame03_Bottom.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 413c16f9b42074c0183f329f5693f0bf
+    m_Address: Assets/Scenes/Topic/Res/Frame/Frame10_Bottom.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dedfc586d6ea14033abf98114736f9ca
+    m_Address: Assets/Scenes/Topic/Res/Frame/Frame05_Top.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6b7a7246854114447996dc6feba0d099
+    m_Address: Assets/Scenes/Topic/Res/Frame/Frame08_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8d4e62a3762c24d4293c7585371ec1c3
+    m_Address: Assets/Scenes/Topic/Res/Frame/Frame04_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 50da83ed8bb7848a789acd833aae66d0
+    m_Address: Assets/Scenes/Topic/Res/Frame/Frame05_Bottom.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a217f34d5bdfa48a5b4f30aaad19ba7c
+    m_Address: Assets/Scenes/Topic/Res/Frame/Frame06_Bottom.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3d48ad7ef2501452f8f11e1fad90218c
+    m_Address: Assets/Scenes/Topic/Res/Frame/Frame10_Top.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a3c0094804bc642b5af2ef7515340931
+    m_Address: Assets/Scenes/Topic/Res/Frame/Frame09_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4172dc53342cd4c24ba94b5f8c507d7a
+    m_Address: Assets/Scenes/Topic/Res/Frame/Frame02_Top.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1c3ad8c3f3f72498188ad301b2c9f156
+    m_Address: Assets/Scenes/Topic/Res/Frame/Frame08_Bottom.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8882ee2bfd41a49e6b08ee1c54bffb07
+    m_Address: Assets/Scenes/Topic/Res/Frame/Frame07_Top.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bbb2c77a5e446419e802b498261c30c4, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3aeb78293487a4f4d9994640448df6f4, type: 2}
+    - {fileID: 11400000, guid: 1d1147ea904d24998ab7b9bdc7b465ae, type: 2}

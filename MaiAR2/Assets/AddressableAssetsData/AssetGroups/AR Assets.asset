@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: AR Assets
+  m_EditorClassIdentifier: 
+  m_GroupName: AR Assets
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 2816691569d5a4af3befbf8371af17ed
+  m_SerializeEntries:
+  - m_GUID: e269a057b2c25408a93346c254c9f967
+    m_Address: Assets/Scenes/Topic/Res/AR/AR01_Prefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e033bc473e2cc485f8b7bc47183c49c8
+    m_Address: Assets/Scenes/Topic/Res/AR/AR01_Target.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 02d2870e57f444212b776fd240a6ef76
+    m_Address: Assets/Scenes/Topic/Res/AR/AR02_Prefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9845a51bfd0f6489c8344b08b3608b8a
+    m_Address: Assets/Scenes/Topic/Res/AR/AR02_Target.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4a11d2d473ace44809baa9befbf7c14e
+    m_Address: Assets/Scenes/Topic/Res/AR/AR03_Prefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5e62be504eb75429192352d2aea4ef1d
+    m_Address: Assets/Scenes/Topic/Res/AR/AR03_Target.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fb9fec6efcde3424984c9616b24c9f57
+    m_Address: Assets/Scenes/Topic/Res/AR/AR04_Prefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a8d4d144f9fea48dd8ab4de6e6cc7c48
+    m_Address: Assets/Scenes/Topic/Res/AR/AR04_Target.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4ca6ca41f00ba4fa097ea1919bc240c9
+    m_Address: Assets/Scenes/Topic/Res/AR/AR05_Prefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b0c46f77ce9e4447ab3bbda39bcb2fa9
+    m_Address: Assets/Scenes/Topic/Res/AR/AR05_Target.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bbb2c77a5e446419e802b498261c30c4, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2fb5ec43b7f514b1cafd41043df404a8, type: 2}
+    - {fileID: 11400000, guid: 26500928adc2c4e4cbe1ce0842d381f8, type: 2}

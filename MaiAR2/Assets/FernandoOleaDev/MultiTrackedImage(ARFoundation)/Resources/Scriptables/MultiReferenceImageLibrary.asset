@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73a385de10ec1b246800a0b7d84de46c, type: 3}
+  m_Name: MultiReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_MultiImages:
+  - xRReferenceImage:
+      m_SerializedGuid:
+        m_GuidLow: 4805579170802060271
+        m_GuidHigh: 7752615571741959339
+      m_SerializedTextureGuid:
+        m_GuidLow: 16492624257745421664
+        m_GuidHigh: 11254625310021434890
+      m_Size: {x: 0.1, y: 0.1}
+      m_SpecifySize: 1
+      m_Name: one
+      m_Texture: {fileID: 0}
+    prefabToSpawn: {fileID: 9197711915628233426, guid: 8e2aefc49ca0e4e83828f33d9e085d93, type: 3}
+    inScene: 0
+    objectInScene: {fileID: 0}
+    scaleMultiplier: 1
+    activeOcclusion: 0
+    exclusiveInScene: 0
+    debugActive: 0
+  - xRReferenceImage:
+      m_SerializedGuid:
+        m_GuidLow: 5042663397258134544
+        m_GuidHigh: 10762295089441842576
+      m_SerializedTextureGuid:
+        m_GuidLow: 11873529346117363310
+        m_GuidHigh: 3663784657884126635
+      m_Size: {x: 0.1, y: 0.1}
+      m_SpecifySize: 1
+      m_Name: two
+      m_Texture: {fileID: 0}
+    prefabToSpawn: {fileID: 6712417718252566010, guid: f5e487018ecf84296b9c6fbbdf4046d4, type: 3}
+    inScene: 0
+    objectInScene: {fileID: 0}
+    scaleMultiplier: 1
+    activeOcclusion: 0
+    exclusiveInScene: 0
+    debugActive: 0
+  - xRReferenceImage:
+      m_SerializedGuid:
+        m_GuidLow: 4961388229569305911
+        m_GuidHigh: 12402977729620004005
+      m_SerializedTextureGuid:
+        m_GuidLow: 13975885007078534576
+        m_GuidHigh: 17006879745082112186
+      m_Size: {x: 0.08, y: 0.08}
+      m_SpecifySize: 0
+      m_Name: eating
+      m_Texture: {fileID: 2800000, guid: d49fadb0515dc1f4bab86797059304ec, type: 3}
+    prefabToSpawn: {fileID: 2938924814185855714, guid: edc30940c90d09143b9853821a18c62f, type: 3}
+    inScene: 0
+    objectInScene: {fileID: 0}
+    scaleMultiplier: 1
+    activeOcclusion: 0
+    exclusiveInScene: 0
+    debugActive: 0
+  - xRReferenceImage:
+      m_SerializedGuid:
+        m_GuidLow: 5254878888561073717
+        m_GuidHigh: 6713833423561310140
+      m_SerializedTextureGuid:
+        m_GuidLow: 16741186808235467495
+        m_GuidHigh: 6408567921638446745
+      m_Size: {x: 0, y: 0}
+      m_SpecifySize: 0
+      m_Name: jp
+      m_Texture: {fileID: 0}
+    prefabToSpawn: {fileID: 4234712520140862163, guid: 6ad8ef314bd63954ba719c982f12fe71, type: 3}
+    inScene: 0
+    objectInScene: {fileID: 0}
+    scaleMultiplier: 1
+    activeOcclusion: 0
+    exclusiveInScene: 0
+    debugActive: 0
+  - xRReferenceImage:
+      m_SerializedGuid:
+        m_GuidLow: 5701505557758478286
+        m_GuidHigh: 770300302285264028
+      m_SerializedTextureGuid:
+        m_GuidLow: 23656290743730853
+        m_GuidHigh: 7400532241653391192
+      m_Size: {x: 0, y: 0}
+      m_SpecifySize: 0
+      m_Name: ger
+      m_Texture: {fileID: 0}
+    prefabToSpawn: {fileID: 0}
+    inScene: 0
+    objectInScene: {fileID: 0}
+    scaleMultiplier: 1
+    activeOcclusion: 0
+    exclusiveInScene: 0
+    debugActive: 0
+  - xRReferenceImage:
+      m_SerializedGuid:
+        m_GuidLow: 5270408836115303607
+        m_GuidHigh: 1745912783522244993
+      m_SerializedTextureGuid:
+        m_GuidLow: 16241147683476337880
+        m_GuidHigh: 15264002199348439097
+      m_Size: {x: 0, y: 0}
+      m_SpecifySize: 0
+      m_Name: hakia
+      m_Texture: {fileID: 0}
+    prefabToSpawn: {fileID: 0}
+    inScene: 0
+    objectInScene: {fileID: 0}
+    scaleMultiplier: 1
+    activeOcclusion: 0
+    exclusiveInScene: 0
+    debugActive: 0
+  - xRReferenceImage:
+      m_SerializedGuid:
+        m_GuidLow: 4706258869478391251
+        m_GuidHigh: 11220845996309418147
+      m_SerializedTextureGuid:
+        m_GuidLow: 18069736426185681684
+        m_GuidHigh: 16804651659503138891
+      m_Size: {x: 0, y: 0}
+      m_SpecifySize: 0
+      m_Name: butifly
+      m_Texture: {fileID: 0}
+    prefabToSpawn: {fileID: 0}
+    inScene: 0
+    objectInScene: {fileID: 0}
+    scaleMultiplier: 1
+    activeOcclusion: 0
+    exclusiveInScene: 0
+    debugActive: 0
+  - xRReferenceImage:
+      m_SerializedGuid:
+        m_GuidLow: 5648282942015201334
+        m_GuidHigh: 1688088883362797225
+      m_SerializedTextureGuid:
+        m_GuidLow: 10539731452014944777
+        m_GuidHigh: 14075883946278685627
+      m_Size: {x: 0, y: 0}
+      m_SpecifySize: 0
+      m_Name: turk
+      m_Texture: {fileID: 0}
+    prefabToSpawn: {fileID: 0}
+    inScene: 0
+    objectInScene: {fileID: 0}
+    scaleMultiplier: 1
+    activeOcclusion: 0
+    exclusiveInScene: 0
+    debugActive: 0
